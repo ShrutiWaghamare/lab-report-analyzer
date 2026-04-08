@@ -25,7 +25,7 @@ if __name__ == "__main__":
     print("="*50)
     print("  Open in browser → http://localhost:8000")
     print("  API docs        → http://localhost:8000/docs")
-    print("  Stop server     → Ctrl + C")
+    print("  Stop server     → Ctrl ++ C")
     print("="*50 + "\n")
 
     uvicorn.run(
